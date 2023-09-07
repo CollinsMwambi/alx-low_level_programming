@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Main function
+ * main - This is the entry point
  *
- * return: always 0
-*/
+ * Return: 0 sucess
+ *
+ */
 
 int main(void)
 {
