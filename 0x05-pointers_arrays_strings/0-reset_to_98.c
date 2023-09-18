@@ -1,10 +1,8 @@
 #include "main.h"
 /*
  * reset_to_98 - resets to a value 98
- * @n - pointer to the value to be changed
+ * @n: pointer to the value to be changed
  * Return: void
- *
- *
  *
  *
  */
